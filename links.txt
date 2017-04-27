@@ -1,0 +1,17 @@
+links.txt
+Created Thu Apr 27 08:15:07 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Robot related links
+
+
+Links
+=====
+Boston Dynamics' New Atlas Robot Can't Be Pushed Around (Video)
+By Denise Chow, Sci-Tech Editor | February 24, 2016 11:50am ET
+http://www.livescience.com/53825-atlas-robot-video-boston-dynamics.html
+
+Mail Dog: Robotic Dog 'Spot' Could Deliver Your Next Package
+By Kacey Deamer, Staff Writer | April 26, 2017 03:57pm ET
+http://www.livescience.com/58854-robotic-dog-makes-first-delivery.html?utm_source=notification
